@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Color for the background of news section -->
+    <color name="section">#7986cb</color>
+    <!-- Color for title of news section -->
+    <color name="textColorSection">#FFF</color>
+    <!-- Color for the title of news article -->
+    <color name="textColorTitle">#424242</color>
+    <!-- Color for the author of news article -->
+    <color name="textColorAuthor">#9e9e9e</color>
+    <!-- Color for the date of news article -->
+    <color name="textColorDate">#9e9e9e</color>
+
+</resources>
